@@ -14,5 +14,5 @@ HX711 pins:
 buzzer pin : 2
 relais pin : 7
 LCD pins A4 = SDA // A5 = // SCL
-Copyright (c) 2020, Badr el mazil @UNIPE
+Copyright (c) 2020, Ouad Hamza @UNIPE
 
